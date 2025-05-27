@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+writers_asst_free/venv/
+writers_asst_premium/venv/
+
+# Ignore .pyc files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment and logs
+.env
+*.log
